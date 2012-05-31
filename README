@@ -1,0 +1,20 @@
+README
+--------
+
+This applet has been created by Dave Armstrong
+Student Number: B00528996
+
+University of Ulster @ Jordanstown
+
+BEng (Hons) Software Engineering
+
+---
+
+FYP - Final Year Project
+
+Description:
+
+An applet that will return the BSSID of the closest WiFi Access point (Windows 7) 
+or the BSSID of the WiFi Access point currently connected (Mac OSX Lion).
+
+Works in conjunctionw with the web portal https://github.com/ukprototype/FYP-CAWP
